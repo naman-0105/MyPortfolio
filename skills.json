@@ -1,13 +1,5 @@
 [
     {
-        "name": "ExpressJS",
-        "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
-    },
-    {
-        "name": "NodeJS",
-        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
-    },
-    {
         "name": "HTML5",
         "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
     },
@@ -20,8 +12,20 @@
         "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
     },
     {
-        "name": "Python",
-        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+        "name": "React",
+        "icon": "https://img.icons8.com/?size=48&id=asWSSTBrDlTW&format=png&color=000000"
+    },
+    {
+        "name": "NextJS",
+        "icon": "https://img.icons8.com/?size=48&id=r2OarXWQc7B6&format=png&color=FFFFFF"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/?size=48&id=PndQWK6M1Hjo&format=png&color=000000F"
+    },
+    {
+        "name": "Tailwind CSS",
+        "icon": "https://img.icons8.com/?size=48&id=4PiNHtUJVbLs&format=png&color=000000"
     },
     {
         "name": "C++",
@@ -32,8 +36,8 @@
         "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
     },
     {
-        "name": "jQuery",
-        "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
+        "name": "Firebase",
+        "icon": "https://img.icons8.com/?size=48&id=62452&format=png&color=000000"
     },
     {
         "name": "Git VCS",
@@ -46,5 +50,9 @@
     {
         "name": "Figma",
         "icon": "https://img.icons8.com/?size=48&id=zfHRZ6i1Wg0U&format=png&color=000000"
+    },
+    {
+        "name": "Canva",
+        "icon": "https://img.icons8.com/?size=48&id=iWw83PVcBpLw&format=png&color=000000"
     }
 ]

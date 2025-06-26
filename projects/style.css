@@ -316,6 +316,24 @@ header .navbar ul li a:hover{
 .backbtn .btn:hover i {
   transform: translateX(-8px);
 }
+.box .content {
+  position: absolute;
+  bottom: -100%;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(255, 255, 255, 0.95);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 2rem;
+  transition: bottom 0.4s ease;
+}
+
+.box:hover .content {
+  bottom: 0;
+}
+
 /* work section ends */
 
 /* common media queries starts*/

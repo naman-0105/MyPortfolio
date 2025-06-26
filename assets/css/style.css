@@ -479,7 +479,7 @@ header .navbar ul li a:hover {
 }
 .skills .container .row {
   display: grid;
-  grid-template-columns: repeat(6, 1fr);
+  grid-template-columns: repeat(7, 1fr);
   flex-wrap: wrap;
   gap: 1.8rem;
 }
@@ -561,6 +561,7 @@ header .navbar ul li a:hover {
   margin-top: 2rem;
   overflow: hidden;
   transition: 0.3s;
+  padding-top: 3rem;
   background: rgb(252, 252, 252);
 }
 .education .box-container .box:hover {
@@ -662,6 +663,7 @@ header .navbar ul li a:hover {
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
   position: relative;
   overflow: hidden;
+  margin-top: 6rem;
   height: 30rem;
 }
 .work .box-container .box img {
